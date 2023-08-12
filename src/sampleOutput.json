@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lawmakers race to secure US debt deal votes as deadline looms",
+            "description": "President Joe Biden says he \"feels good\" about the prospect of Congress passing the deal by 5 June.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65729305",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/123C9/production/_129879647_e7ecbfa4945d0cb90904288f58035d048c06d4d60_46_4073_22931000x563.jpg",
+            "publishedAt": "2023-05-30T07:22:22.8871663Z",
+            "content": "US President Joe Biden has said he is optimistic that a bipartisan deal to temporarily suspend the nation's debt ceiling will pass through Congress.\r\nThe deal must pass in the narrowly divided House … [+3804 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What's in the US debt ceiling deal?",
+            "description": "An agreement to raise the US government's borrowing limit is within reach. Here are the key measures proposed.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65744615",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A85/production/_129898760_mccarthy_976getty.jpg",
+            "publishedAt": "2023-05-30T07:22:20.6533469Z",
+            "content": "President Joe Biden has urged Congress to pass a deal to raise the government's borrowing limit and prevent a potentially catastrophic default on US debt repayments. So what is in the deal?\r\nNegotiat… [+5784 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Malaysia detains Chinese ship suspected of looting British WW2 wrecks",
+            "description": "Malaysia says it has detained a Chinese vessel suspected of raiding two British maritime war graves.",
+            "url": "http://www.bbc.co.uk/news/world-asia-65750908",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13204/production/_129904387_ship.jpg",
+            "publishedAt": "2023-05-30T06:37:23.527772Z",
+            "content": "Malaysia has detained a Chinese-registered vessel suspected of looting two British World War Two shipwrecks. \r\nThe bulk carrier was seized on Sunday for anchoring illegally at the site in the South C… [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Drones hit Moscow buildings after strikes on Kyiv kill one",
+            "description": "Russian officials say there is minor damage to buildings and air defences have shot down several drones.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-65751650",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-05-30T06:37:22.657026Z",
+            "content": "Good morning and welcome to our live coverage. An overnight drone attack in Moscow has caused minor damage to several buildings, officials say.\r\nThere have been no serious injuries and emergency serv… [+550 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elizabeth Holmes is going to prison. Will she ever pay victims too?",
+            "description": "Experts say victims often never get their money back from those who defrauded them.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65678967",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ECA/production/_129868730_holmes-index-epa.jpg",
+            "publishedAt": "2023-05-30T06:07:19.9177979Z",
+            "content": "After several failed attempts to delay her time behind bars, Theranos founder Elizabeth Holmes is set to report to federal prison this week.\r\nThe disgraced entrepreneur was sentenced to over 11 years… [+4931 chars]"
+        }
+        
+    ]
+}
